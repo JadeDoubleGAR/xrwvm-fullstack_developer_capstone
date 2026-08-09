@@ -1,3 +1,4 @@
+/*jshint esversion: 8 */
 # Uncomment the required imports before adding the code
 
 from django.shortcuts import render
